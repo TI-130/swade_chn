@@ -1,0 +1,22 @@
+{
+	"name": "swade_chn",
+	"title": "狂野世界汉化",
+	"description": "狂野世界冒险版中文汉化",
+	"version": "0.1",
+	"minimumCoreVersion": "0.7.5",
+	"compatibleCoreVersion": "0.7.9",
+	"author": "HXQXH",
+    "system": "swade",
+	"packs": [
+	],
+	"languages": [
+		{
+			"lang": "cn",
+			"name": "中文",
+			"path": "lang/cn.json"
+		}
+	],
+	"url": "https://github.com/TI-130/swade_chn",
+	"manifest": "https://gitlab.com/peginc/swade/-/raw/master/src/system.json",
+	"download": "https://gitlab.com/peginc/swade/-/raw/v0.16.2/package/swade-v0.16.2.zip",
+}
