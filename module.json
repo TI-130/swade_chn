@@ -6,7 +6,7 @@
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "0.7.9",
 	"author": "HXQXH",
-    "system": "swade",
+	"system": "swade",
 	"packs": [
 	],
 	"languages": [
