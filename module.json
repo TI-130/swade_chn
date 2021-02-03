@@ -18,5 +18,5 @@
 	],
 	"url": "https://github.com/TI-130/swade_chn",
 	"manifest": "https://gitlab.com/peginc/swade/-/raw/master/src/system.json",
-	"download": "https://gitlab.com/peginc/swade/-/raw/v0.16.2/package/swade-v0.16.2.zip",
+	"download": "https://gitlab.com/peginc/swade/-/raw/v0.16.2/package/swade-v0.16.2.zip"
 }
