@@ -17,6 +17,6 @@
 		}
 	],
 	"url": "https://github.com/TI-130/swade_chn",
-	"manifest": "https://raw.githubusercontent.com/TI-130/swade_chn/blob/main/system.json",
+	"manifest": "https://raw.githubusercontent.com/TI-130/swade_chn/main/system.json",
 	"download": "https://github.com/TI-130/swade_chn/files/5921234/swade_chn.zip",
 }
